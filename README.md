@@ -1,41 +1,43 @@
- ### Hi there 👋
+### Hi there 👋
 
-  ![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FVehanRajintha%2FVehanRajintha&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhashi2002%2Fhashi2002&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
+![forks](https://img.shields.io/github/forks/hashi2002/hashi2002?label=Forks&style=social)
+![stars](https://img.shields.io/github/stars/hashi2002/hashi2002?style=social)
 
-![forks](https://img.shields.io/github/forks/VehanRajintha/VehanRajintha?label=Forks&style=social)
-![stars](https://img.shields.io/github/stars/VehanRajintha/VehanRajintha?style=social)
+![size](https://img.shields.io/github/repo-size/hashi2002/hashi2002?color=purple&label=Repo%20Size&style=plastic)
+![license](https://img.shields.io/github/license/hashi2002/hashi2002?color=purple&label=License&style=plastic)
+![developer](https://img.shields.io/static/v1?label=Author&message=Hashini%20Ranasinghe&color=purple&style=plastic)
 
-![size](https://img.shields.io/github/repo-size/VehanRajintha/VehanRajintha?color=purple&label=Repo%20Size&style=plastic)
-![license](https://img.shields.io/github/license/VehanRajintha/X-UI-English-?color=purple&label=License&style=plastic)
-![developer](https://img.shields.io/static/v1?label=Author&message=Vehan%20Rajintha&color=purple&style=plastic)
-
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Vehan+Rajintha;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Young+Serif&pause=1000&color=8706E1FF&center=true&vCenter=true&random=false&width=435&lines=Hey+I'm+Hashini+Ranasinghe;Don't+Forget+To+Follow+Me...)](https://git.io/typing-svg)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=VehanRajintha" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hashi2002" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=VehanRajintha&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hashi2002&layout=compact&langs_count=8&card_width=320" />
 </a>
 
- ### Hi there 👋
+---
 
+### About Me 👩‍💻
 
-- 😊 I’m Vehan Rajintha
-- 👦🏻 I'm 21 years old
-- 👀 I’m interested in HTML,CSS,Javascript,C++,Hacking,Web developping and...
-- 🌱 I’m currently reading Computer Systems and Network Engineering Degree at SLIIT.
-- 🕺 I'm  also member of KCD , GDG & AICSL..
-- 💞️ I’m looking to collaborate on building websites and web apps, developping linux tools, Linux server operations and...
-- 📫 Email me via IT23646360@my.sliit.lk to contact
-- 🤩 Follow me on Instagram https://www.instagram.com/vehanrajintha/
-- 💬 Text me on WhatsApp +94713910417
+- 😊 I’m **Hashini Ranasinghe**
+- 👩🏻 I'm 22 years old
+- 👀 I’m interested in **Java, Spring Boot, HTML, CSS, JavaScript, and software engineering concepts.**
+- 🌱 I’m currently pursuing a **Software Engineering Degree** at the **University of [Greenwich]**.
+- 🏢 I’m a member of **[Your Organizations, e.g., ICT, etc.]**.
+- 💞️ I’m looking to collaborate on **Java projects, web application development, and Spring Boot applications.**
+- 📫 Email me at **[hashiranasinghe11@gmail.com]** to connect!
+- 🤩 Follow me on LinkedIn: [Hashini Ranasinghe](https://www.linkedin.com/in/hashini-ranasinghe-750094298/)
 
+---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=VehanRajintha)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hashi2002)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
 ## 🤝 Connect & Collaborate
+- 💌 Email: **[hashiranasinghe11@gmail.com]**
+- 🌐 LinkedIn: [Hashini Ranasinghe](https://www.linkedin.com/in/hashini-ranasinghe-750094298/)
+- 🔗 GitHub: [hashi2002](https://github.com/hashi2002)
