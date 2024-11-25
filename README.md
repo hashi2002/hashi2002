@@ -25,10 +25,10 @@
 - 😊 I’m **Hashini Ranasinghe**
 - 👩🏻 I'm 22 years old
 - 👀 I’m interested in **Java, Spring Boot, HTML, CSS, JavaScript, and software engineering concepts.**
-- 🌱 I’m currently pursuing a **Software Engineering Degree** at the **University of [Greenwich]**.
-- 🏢 I’m a member of **[Your Organizations, e.g., ICT, etc.]**.
+- 🌱 I’m currently pursuing a **Software Engineering Degree** at the **University of Greenwich**.
+- 🏢 I’m a member of **Robotic club of LNBTI**.
 - 💞️ I’m looking to collaborate on **Java projects, web application development, and Spring Boot applications.**
-- 📫 Email me at **[hashiranasinghe11@gmail.com]** to connect!
+- 📫 Email me at **hashiranasinghe11@gmail.com** to connect!
 - 🤩 Follow me on LinkedIn: [Hashini Ranasinghe](https://www.linkedin.com/in/hashini-ranasinghe-750094298/)
 
 ---
